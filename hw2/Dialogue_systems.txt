@@ -1,0 +1,1 @@
+Uses Q Learning to simulate conversations to find and choose the right restaurant based on the preferences of the User. 
